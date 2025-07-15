@@ -1,4 +1,3 @@
-# Fast-Delivery-Agent-Reviews
 # 🚚 Fast Delivery Agent Reviews – Dataset Analysis
 
 This repository contains a dataset of **5,000 real-world delivery reviews** across top delivery agents in India. It enables data exploration, service quality benchmarking, customer satisfaction analysis, and sentiment classification using pandas.
